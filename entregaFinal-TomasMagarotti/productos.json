@@ -1,0 +1,12 @@
+{
+    "precios": {
+      "Manzana": 300,
+      "Plátano": 450,
+      "Naranja": 250
+    },
+    "imagenesProductos": {
+      "Manzana": "multimedia/manzana_roja.jpg",
+      "Plátano": "multimedia/platanos-de-canarias.jpg",
+      "Naranja": "multimedia/naranja.jpg.webp"
+    }
+  }
